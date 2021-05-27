@@ -1,0 +1,7 @@
+# IDE's
+.atom/
+.idea/
+.vscode/
+
+# VE
+venv/
